@@ -1,0 +1,77 @@
+cvds_code,cvds_title
+I00,Rheumatic fever without mention of heart involvement
+I01,Rheumatic fever with heart involvement
+I02,Rheumatic chorea
+I05,Rheumatic mitral valve diseases
+I06,Rheumatic aortic valve diseases
+I07,Rheumatic tricuspid valve diseases
+I08,Multiple valve diseases
+I09,Other rheumatic heart diseases
+I10,Essential (primary) hypertension
+I11,Hypertensive heart disease
+I12,Hypertensive renal disease
+I13,Hypertensive heart and renal disease
+I15,Secondary hypertension
+I20,Angina pectoris
+I21,Acute myocardial infarction
+I22,Subsequent myocardial infarction
+I23,Certain current complications following acute myocardial infarction
+I24,Other acute ischaemic heart diseases
+I25,Chronic ischaemic heart disease
+I26,Pulmonary embolism
+I27,Other pulmonary heart diseases
+I28,Other diseases of pulmonary vessels
+I30,Acute pericarditis
+I31,Other diseases of pericardium
+I32,Pericarditis in diseases classified elsewhere
+I33,Acute and subacute endocarditis
+I34,Nonrheumatic mitral valve disorders
+I35,Nonrheumatic aortic valve disorders
+I36,Nonrheumatic tricuspid valve disorders
+I37,Pulmonary valve disorders
+I38,"Endocarditis, valve unspecified"
+I39,Endocarditis and heart valve disorders in diseases classified elsewhere
+I40,Acute myocarditis
+I41,Myocarditis in diseases classified elsewhere
+I42,Cardiomyopathy
+I43,Cardiomyopathy in diseases classified elsewhere
+I44,Atrioventricular and left bundle-branch block
+I45,Other conduction disorders
+I46,Cardiac arrest
+I47,Paroxysmal tachycardia
+I48,Atrial fibrillation and flutter
+I49,Other cardiac arrhythmias
+I50,Heart failure
+I51,Complications and ill-defined descriptions of heart disease
+I52,Other heart disorders in diseases classified elsewhere
+I60,Subarachnoid haemorrhage
+I61,Intracerebral haemorrhage
+I62,Other nontraumatic intracranial haemorrhage
+I63,Cerebral infarction
+I64,"Stroke, not specified as haemorrhage or infarction"
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction"
+I67,Other cerebrovascular diseases
+I68,Cerebrovascular disorders in diseases classified elsewhere
+I69,Sequelae of cerebrovascular disease
+I70,Atherosclerosis
+I71,Aortic aneurysm and dissection
+I72,Other aneurysm and dissection
+I73,Other peripheral vascular diseases
+I74,Arterial embolism and thrombosis
+I77,Other disorders of arteries and arterioles
+I78,Diseases of capillaries
+I79,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+I80,Phlebitis and thrombophlebitis
+I81,Portal vein thrombosis
+I82,Other venous embolism and thrombosis
+I83,Varicose veins of lower extremities
+I85,Oesophageal varices
+I86,Varicose veins of other sites
+I87,Other disorders of veins
+I88,Nonspecific lymphadenitis
+I89,Other noninfective disorders of lymphatic vessels and lymph nodes
+I95,Hypotension
+I97,"Postprocedural disorders of circulatory system, not elsewhere classified"
+I98,Other disorders of circulatory system in diseases classified elsewhere
+I99,Other and unspecified disorders of circulatory system

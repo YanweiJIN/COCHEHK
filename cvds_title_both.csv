@@ -1,0 +1,32 @@
+cvds_code9,cvds_code10,cvds_title
+390,I00,Rheumatic fever without mention of heart involvement
+391,I01,Rheumatic fever with heart involvement
+392,I02,Rheumatic chorea
+402,I11,Hypertensive heart disease
+403,I12,Hypertensive renal disease
+404,I13,Hypertensive heart and renal disease
+405,I15,Secondary hypertension
+413,I20,Angina pectoris
+410,I21,Acute myocardial infarction
+411,I24,Other acute ischaemic heart diseases
+420,I30,Acute pericarditis
+423,I31,Other diseases of pericardium
+421,I33,Acute and subacute endocarditis
+422,I40,Acute myocarditis
+425,I42,Cardiomyopathy
+428,I50,Heart failure
+430,I60,Subarachnoid haemorrhage
+433,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"
+440,I70,Atherosclerosis
+441,I71,Aortic aneurysm and dissection
+442,I72,Other aneurysm and dissection
+443,I73,Other peripheral vascular diseases
+444,I74,Arterial embolism and thrombosis
+447,I77,Other disorders of arteries and arterioles
+451,I80,Phlebitis and thrombophlebitis
+452,I81,Portal vein thrombosis
+453,I82,Other venous embolism and thrombosis
+454,I83,Varicose veins of lower extremities
+456,I86,Varicose veins of other sites
+458,I95,Hypotension
+459,I98,Other disorders of circulatory system in diseases classified elsewhere
